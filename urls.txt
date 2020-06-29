@@ -1,3 +1,5 @@
 dl.memuplay.com
 stat.microvirt.com
+www.google-analytics.com
+www.xyaz.cn
 xyaz.cn
